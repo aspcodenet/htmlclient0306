@@ -1,4 +1,7 @@
 ### get all
+GET http://localhost:3000/comments
+
+### get all
 GET http://localhost:3000/products/1
 
 ### create new
