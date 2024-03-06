@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Samsung 123",
+      "price": 300,
+      "stockLevel": 12
+    },
+    {
+      "id": "2",
+      "title": "IPhone 99",
+      "price": 900,
+      "stockLevel": 121
+    },
+    {
+      "id": "3",
+      "title": "Nokia 3310",
+      "price": 1300,
+      "stockLevel": 1
+    },
+    {
+      "id": "c9c2",
+      "title": "Samsung NYA",
+      "price": 11,
+      "stockLevel": 112
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "orders": {
+    "id": "1",
+    "total":123
+  },
+  "players": {
+    "id": "1",
+    "name":"Foppa"
+  }
+
+}

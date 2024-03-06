@@ -1,0 +1,12 @@
+### get all
+GET http://localhost:3000/products/1
+
+### create new
+POST  http://localhost:3000/products
+Content-Type: application/json
+
+{
+  "title": "Samsung NYA",
+  "price": 11,
+  "stockLevel": 112
+}
